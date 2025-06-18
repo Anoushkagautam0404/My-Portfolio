@@ -14,14 +14,13 @@ import CursorTrail from "./CursorTrail";
 import bgVideo from "../assets/bg-tech.mp4";
 
 const allCerts = [
-  { title: "🏆 Smart India Hackathon – Ministry of India", link: "#" },
-  { title: "💻 MERN Stack Internship – Explorin", link: "#" },
-  { title: "🧠 AI Tools Workshop – MIT", link: "#" },
-  { title: "🐍 Python – Technoledge Eduresearch", link: "#" },
-  { title: "🎵 React Spotify Clone – LetsUpgrade", link: "#" },
+  { title: "💻 MERN Stack Internship – Explorin", link: "https://drive.google.com/file/d/1ibHH_ss3q9XTzWt7yRGGZGyYgME_XWig/view?usp=sharing" },
+  { title: "🧠 AI Tools Workshop – MIT", link: "https://drive.google.com/file/d/1Kppy54ac9yMOpJ_lVht6APwGi_Int8c2/view?usp=sharing" },
+  { title: "🐍 Python – Technoledge Eduresearch", link: "https://drive.google.com/file/d/1KIvM-gADORKiT17NdPX0qpQFSqQHCygf/view?usp=sharing" },
+  { title: "🎵 Student Co-ordinator of Newsletter MIT ", link: "https://drive.google.com/file/d/13X6RHZwA4s6ZHB5Dv6p3SI4i_ag1yini/view?usp=sharing" },
   { title: "🔍 SEO – Great Learning", link: "#" },
-  { title: "📈 Product Management – SkillUp", link: "#" },
-  { title: "🎉 Zonal Tech Fest – AKTU", link: "#" },
+  { title: "📈 Product Management – SkillUp", link: "https://drive.google.com/file/d/17Y2mrwHTxDFreQK2eVosS4fWe45R0kSd/view?usp=sharing" },
+  { title: "🎉 Zonal Tech Fest – AKTU", link: "https://drive.google.com/file/d/1e70pL5YfhlyJiZ0rV6ly9bH55CfDXWFW/view?usp=sharing" },
 ];
 
 const itemsPerPage = 3;
