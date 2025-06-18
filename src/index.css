@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.follower-dot {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 14px;
+  height: 14px;
+  pointer-events: none;
+  border-radius: 50%;
+  background: rgba(0, 229, 255, 0.2);
+  box-shadow: 0 0 12px rgba(0, 229, 255, 0.2);
+  backdrop-filter: blur(4px);
+  transition: background 0.3s ease;
+  z-index: 9999;
+}
